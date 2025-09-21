@@ -86,7 +86,7 @@ If correct → Score increases by 1, timer resets to 10 seconds, and a new word/
 
 If time runs out → Game over message with final score.
 
-🛠️ Requirements
+- Requirements
 
 .NET Framework (or .NET Core for Windows Forms).
 
